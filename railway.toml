@@ -1,5 +1,5 @@
 [build]
-command = "./mvnw package"
+command = "mvn package"
 
 [start]
 command = "java -jar online-examination-system-0.0.1-SNAPSHOT.jar"
