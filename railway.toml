@@ -2,4 +2,4 @@
 command = "./mvnw package"
 
 [start]
-command = "java -jar target/online-examination-system-0.0.1-SNAPSHOT.jar"
+command = "java -jar online-examination-system-0.0.1-SNAPSHOT.jar"
